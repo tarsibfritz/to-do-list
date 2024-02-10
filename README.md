@@ -1,6 +1,6 @@
 # To-Do List #
 
-Projeto de To-Do List desenvolvido em C#.
+Projeto de To-Do List desenvolvido com C#.
 
 ## Projeto: ## 
 - ➕ __Adicionar Nova Tarefa.__
