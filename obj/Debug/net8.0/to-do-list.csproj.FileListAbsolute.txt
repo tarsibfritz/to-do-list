@@ -12,3 +12,4 @@ C:\Users\tarsi\OneDrive\Documents\Projetos\to-do-list\obj\Debug\net8.0\refint\to
 C:\Users\tarsi\OneDrive\Documents\Projetos\to-do-list\obj\Debug\net8.0\to-do-list.pdb
 C:\Users\tarsi\OneDrive\Documents\Projetos\to-do-list\obj\Debug\net8.0\to-do-list.genruntimeconfig.cache
 C:\Users\tarsi\OneDrive\Documents\Projetos\to-do-list\obj\Debug\net8.0\ref\to-do-list.dll
+C:\Users\tarsi\OneDrive\Documents\Projetos\to-do-list\obj\Debug\net8.0\to-do-list.sourcelink.json

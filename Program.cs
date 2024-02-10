@@ -11,6 +11,7 @@ while (!exit)
     Console.WriteLine("4. Remover Tarefa");
     Console.WriteLine("5. Sair");
 
+    Console.Write("\nInforme a opção desejada: ");
     string choice = Console.ReadLine();
 
     switch(choice)
@@ -42,8 +43,17 @@ void AddTask()
 {
     Console.Write("\nDigite uma nova tarefa: ");
     string newTask = Console.ReadLine();
-    tasks.Add(newTask);
-    Console.WriteLine("Tarefa adicionada com sucesso!\n");
+
+    if (newTask == "")
+    {
+        Console.WriteLine("Índice inválido. Tente novamente.\n");
+    }
+    else 
+    {
+        tasks.Add(newTask);
+        Console.WriteLine("Tarefa adicionada com sucesso!\n");
+
+    }
 }
 
 void DisplayTasks()
